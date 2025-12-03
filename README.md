@@ -1,114 +1,116 @@
 🍽️ Recipe Finder Web Application
 
-A simple recipe finder web app where users can register, log in, log out, and access the Add Recipe UI.
-Backend APIs are fully implemented using Node.js + MongoDB.
+   - A simple recipe finder web app where users can register, log in, log out, and access the Add Recipe UI.
+    Backend APIs are fully implemented using Node.js + MongoDB.
 
 ✅ Features Completed
 
-🔐 Authentication (Frontend + Backend)
+   - Authentication (Frontend + Backend)
 
-User Registration
+   - User Registration
+   
+   - User Login
 
-User Login
+   - User Logout
 
-User Logout
+   - JWT-based authentication
+  
+   - Auth middleware integrated in backend
 
-JWT-based authentication
-
-Auth middleware integrated in backend
-
-Protected routes working
+   - Protected routes working
 
 🥘 Recipe Module (Backend Completed)
 
-Add Recipe API
+   - Add Recipe API
 
-Get all recipes
+   - Get all recipes
 
-Get recipe by ID
+   - Get recipe by ID
 
-Search recipes
+   - Search recipes
 
-Filter recipes
+   - Filter recipes
 
-Pagination
+   - Pagination
 
-Category support (breakfast, lunch, dinner)
+   - Category support (breakfast, lunch, dinner)
 
-Full recipe CRUD backend completed
+   - Full recipe CRUD backend completed
 
 ❤️ Favorites Module (Backend Completed)
 
-Add to favorites
+   - Add to favorites
 
-Remove from favorites
+   - Remove from favorites
 
-List all favorites for logged-in user
+   - List all favorites for logged-in user
 
 📱 Frontend UI Development
 
-Login page
+   - Login page
 
-Signup page
+   - Signup page
 
-Logout functionality
+   - Logout functionality
 
-Add Recipe page UI designed
+   - Add Recipe page UI designed
 
 🚀 Tech Stack
-Frontend
 
-React 
+   - Frontend
 
-Context / LocalStorage for auth state
+   - React 
 
-Backend
+   - Context / LocalStorage for auth state
 
-Node.js + Express
+   - Backend
 
-MongoDB + Mongoose
+   - Node.js + Express
 
-JWT Authentication
+   - MongoDB + Mongoose
+
+   - JWT Authentication
 
 ⚙️ Backend Modules Completed
-✔ Auth Module
 
-✔ User Module
+   - Auth Module
 
-✔ Recipe Module
+   - User Module
 
-✔ Favorites Module
+   - Recipe Module
 
-✔ Search & Filter Logic
+   - Favorites Module
 
-✔ Pagination
+   - Search & Filter Logic
 
-✔ MongoDB Schema Setup
+   - Pagination
+
+   - MongoDB Schema Setup
 
 🧪 Postman Tested
 
-Backend is fully tested using Postman for:
+   - Backend is fully tested using Postman for:
 
-Signup
+   - Signup
 
-Login
+   - Login
 
-Add Recipe
+   - Add Recipe
 
-Favorites
+   - Favorites
 
-Filters
+   - Filters
 
-Search
+   - Search
 
-Pagination
+   - Pagination
 
 📌 Current Status
 
-Backend: 100% completed
+   - Backend: 100% completed
 
-Authentication (frontend): Completed
+   - Authentication (frontend): Completed
 
-Add Recipe Page UI (frontend): Completed
+   - Add Recipe Page UI (frontend): Completed
 
 Remaining modules will be added next.
